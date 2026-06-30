@@ -15,7 +15,10 @@
 <br><br>
 
 <a href="https://www.linkedin.com/in/TON-LIEN">
-<img src="https://readme-typing-svg.demolab.com/?lines=Computer+Engineering+Student+%40+ENIS;Embedded+Software+%7C+Linux+%7C+DevOps+%7C+Cloud;Building+real+systems%2C+not+just+code.&font=Fira+Code&center=true&width=520&height=45&color=2C5364&vCenter=true&size=20"/>
+<img src="https://readme-typing-svg.demolab.com/?
+  
+  
+  lines=Computer+Engineering+Student+%40+ENIS;Embedded+Software+%7C+Linux+%7C+DevOps+%7C+Cloud;Building+real+systems%2C+not+just+code.&font=Fira+Code&center=true&width=520&height=45&color=2C5364&vCenter=true&size=20"/>
 </a>
 
 <br>

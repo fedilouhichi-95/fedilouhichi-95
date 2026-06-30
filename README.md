@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Fedi%20Louhichi&fontSize=42&fontColor=ffffff&desc=Computer%20Engineering%20Student&descSize=18&descAlignY=72" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=160&section=header&text=Fedi%20Louhichi&fontSize=42&fontColor=ffffff" width="100%"/>
+
+**Computer Engineering Student**
 
 <br>
 

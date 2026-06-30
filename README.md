@@ -18,6 +18,10 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Engineering+Student+%40+ENIS;Embedded+Software+%7C+Linux+%7C+DevOps+%7C+Cloud;Building+real+systems%2C+not+just+code.&font=Fira+Code&center=true&width=520&height=45&color=2C5364&vCenter=true&size=20"/>
 </a>
 
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=fedilouhichi-95&style=flat-square&color=2C5364&label=Profile+Views"/>
+
 </div>
 
 <br>
@@ -113,6 +117,38 @@ Diving into tasks, mutexes, semaphores, and real-time OS fundamentals to build m
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fedilouhichi-95&theme=tokyonight&hide_border=true" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedilouhichi-95&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+
+</div>
+
+<br>
+
+## Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fedilouhichi-95&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+<br>
+
+## Trophy Case
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=fedilouhichi-95&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10"/>
+
+</div>
+
+<br>
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/fedilouhichi-95/fedilouhichi-95/output/github-contribution-grid-snake.svg" width="100%"/>
+
+<sub>⚙️ Animated automatically every day via GitHub Actions — setup steps below</sub>
 
 </div>
 

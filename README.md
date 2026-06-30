@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=180&section=header&text=Fedi%20Louhichi&fontSize=42&fontColor=ffffff&desc=Computer%20Engineering%20Student&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Fedi%20Louhichi&fontSize=42&fontColor=ffffff&desc=Computer%20Engineering%20Student&descSize=18&descAlignY=72" width="100%"/>
+
+<br>
 
 <a href="https://www.linkedin.com/in/TON-LIEN">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>

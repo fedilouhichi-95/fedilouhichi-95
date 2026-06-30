@@ -151,24 +151,10 @@ Diving into tasks, mutexes, semaphores, and real-time OS fundamentals to build m
 
 <img src="https://raw.githubusercontent.com/fedilouhichi-95/fedilouhichi-95/output/github-contribution-grid-snake.svg" width="100%"/>
 
-<sub>⚙️ Animated automatically every day via GitHub Actions — setup steps below</sub>
+<sub>
 
 </div>
 
 <br>
 
-## Beyond Code
 
-- 🌍 Arabic (native) · French (technical/academic) · English (technical/academic)
-- 🇹🇳 Based in Mahdia, Tunisia
-- 🎯 Mention Très Bien — Baccalauréat Technique
-
-<br>
-
-<div align="center">
-
-### Open to summer internship opportunities in Embedded Systems, IoT, DevOps, or Cloud Engineering
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
-
-</div>

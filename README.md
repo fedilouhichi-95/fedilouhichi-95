@@ -14,76 +14,27 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/TON-LIEN">
-<img src="https://readme-typing-svg.demolab.com/?
-  
-  
-  lines=Computer+Engineering+Student+%40+ENIS;Embedded+Software+%7C+Linux+%7C+DevOps+%7C+Cloud;Building+real+systems%2C+not+just+code.&font=Fira+Code&center=true&width=520&height=45&color=2C5364&vCenter=true&size=20"/>
-</a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=fedilouhichi-95&style=flat-square&color=2C5364&label=Profile+Views"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Embedded+Software+%7C+Linux+%7C+DevOps+%7C+Cloud;Powered+by+a+terminal+and+too+much+coffee.&font=Fira+Code&center=true&width=520&height=45&color=2C5364&vCenter=true&size=20"/>
 
 </div>
 
 <br>
 
-## About Me
+## whoami
 
-I'm a Computer Engineering student at **ENIS** with a generalist, problem-solving foundation — not boxed into one stack. I work comfortably across the system, from hardware-level C/C++ to deployment pipelines.
+```bash
+$ neofetch
 
-My focus areas:
+       .--.        fedi@enis
+      |o_o |       ----------
+      |:_/ |       OS: Linux Mint (daily driver)
+     //   \ \      Education: Computer Engineering, ENIS
+    (|     | )     Focus: Embedded Software · DevOps · Cloud
+   /'\_   _/`\     Languages: C, C++, Python, Java
+   \___)=(___/     Status: Open to summer internship
+```
 
-- ⚙️ **Embedded Software** — microcontrollers, real-time constraints, sensors, low-level optimization
-- 🐧 **Linux & Embedded Linux** — daily driver, kernel-adjacent curiosity, build systems
-- 🔁 **DevOps** — CI/CD, automation, infrastructure-as-code mindset
-- ☁️ **Cloud** — containerization, deployment, scalable systems
-
-I learn by building — every project below was built to understand *why*, not just to finish a tutorial.
-
-<br>
-
-## What I'm Building
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🤖 High-Speed Line-Following Robot**
-ESP32 · C/C++ · PID Control
-
-Real-time trajectory correction using a closed-loop PID controller, gyroscope-assisted stabilization, and an IR sensor array tuned for high-speed accuracy.
-
-</td>
-<td width="50%" valign="top">
-
-**🅿️ SmartPark — Intelligent Parking System**
-IoT · Dashboard · Real-time data
-
-End-to-end IoT system: sensor data acquisition, serial communication, and a live web dashboard visualizing parking slot occupancy.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🏥 Smart Doctor — Medical Platform**
-Python · Django · HTML/CSS
-
-Customized web platform for medical management, from environment setup to UI adaptation.
-
-</td>
-<td width="50%" valign="top">
-
-**📡 Currently Learning**
-ESP-IDF · FreeRTOS · RTOS internals
-
-Diving into tasks, mutexes, semaphores, and real-time OS fundamentals to build more serious embedded systems.
-
-</td>
-</tr>
-</table>
+I'm a Computer Engineering student with a generalist, hands-on foundation — comfortable from low-level C/C++ to deployment pipelines. I run Linux because I like understanding what's actually happening under the hood, not just what's on the surface.
 
 <br>
 
@@ -91,22 +42,7 @@ Diving into tasks, mutexes, semaphores, and real-time OS fundamentals to build m
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,react,django,linux,git,github,docker,arduino" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-| Layer | Tools |
-|---|---|
-| **Languages** | C, C++, Python, Java, JavaScript, Bash |
-| **Embedded** | ESP32, Arduino, UART/I2C/SPI, sensors, microcontrollers |
-| **Systems** | Linux, low-level/assembly basics, interrupts, registers |
-| **Web** | React, Django, HTML/CSS |
-| **DevOps & Cloud (learning)** | Git/GitHub, Docker, CI/CD pipelines |
-| **IDEs / Tools** | CLion, IntelliJ, PlatformIO |
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,linux,git,github,docker,arduino" />
 
 </div>
 
@@ -119,42 +55,14 @@ Diving into tasks, mutexes, semaphores, and real-time OS fundamentals to build m
 <img src="https://github-readme-stats.vercel.app/api?username=fedilouhichi-95&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fedilouhichi-95&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fedilouhichi-95&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-
 </div>
 
 <br>
-
-## Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fedilouhichi-95&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+### Open to summer internship opportunities in Embedded Systems, IoT, DevOps, or Cloud Engineering
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
 
 </div>
-
-<br>
-
-## Trophy Case
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=fedilouhichi-95&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10"/>
-
-</div>
-
-<br>
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/fedilouhichi-95/fedilouhichi-95/output/github-contribution-grid-snake.svg" width="100%"/>
-
-<sub>
-
-</div>
-
-<br>
-
-

@@ -31,11 +31,11 @@ $ neofetch
 
        .--.        fedi@enis
       |o_o |       ----------
-      |:_/ |       OS: Linux Mint (daily driver)
+      |:_/ |     
      //   \ \      Education: Computer Engineering, ENIS
     (|     | )     Focus: Embedded Software · DevOps · Cloud
    /'\_   _/`\     Languages: C, C++, Python, Java
-   \___)=(___/     Status: Open to summer internship
+   \___)=(___/   
 ```
 
 I'm a Computer Engineering student with a generalist, hands-on foundation — comfortable from low-level C/C++ to deployment pipelines. I run Linux because I like understanding what's actually happening under the hood, not just what's on the surface.
